@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalkusa/puppeteer-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalkusa/puppeteer-playground/issues"
+  },
+  "homepage": "https://github.com/kalkusa/puppeteer-playground#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "puppeteer": "^21.0.3"
+  }
+}
